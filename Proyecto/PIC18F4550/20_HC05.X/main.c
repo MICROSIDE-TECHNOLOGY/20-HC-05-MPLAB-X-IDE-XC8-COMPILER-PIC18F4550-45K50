@@ -1,6 +1,6 @@
 /*
  * File:   main.c
- * Author: Enrique
+ * Author: Microside Technology
  *
  * Created on 26 de noviembre de 2020, 11:35 PM
  */
